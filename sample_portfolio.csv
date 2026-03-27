@@ -1,0 +1,11 @@
+Ticker,Weight,Name,Sector,Region
+BHP.AX,0.15,BHP Group,Materials,Australia
+CBA.AX,0.15,Commonwealth Bank of Australia,Financials,Australia
+CSL.AX,0.10,CSL Limited,Healthcare,Australia
+WBC.AX,0.05,Westpac Banking Corporation,Financials,Australia
+WES.AX,0.05,Wesfarmers Limited,Consumer Staples,Australia
+AAPL,0.15,Apple Inc,Technology,United States
+MSFT,0.15,Microsoft Corporation,Technology,United States
+GOOGL,0.10,Alphabet Inc,Technology,United States
+TSLA,0.05,Tesla Inc,Consumer Discretionary,United States
+JPM,0.05,JPMorgan Chase & Co,Financials,United States
