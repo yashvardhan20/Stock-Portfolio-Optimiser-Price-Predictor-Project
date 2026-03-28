@@ -258,7 +258,7 @@ Prophet is preferred for financial time-series because it:
 
 ## 🏫 Academic Context
 
-This project was developed as part of the **RMIT Master of Analytics** program, demonstrating competency in:
+This project was developed during my University years, demonstrating competency in:
 
 - Applied machine learning for business forecasting
 - Financial data engineering and pipeline design
@@ -281,10 +281,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 👤 Author
 
-**[Your Name]**  
+Yashvardhan Rana  
 Master of Analytics — RMIT University  
-[LinkedIn](https://linkedin.com/in/yourname) | [GitHub](https://github.com/yourname)
+linkedin.com/in/yashvardhan-rana-415a89212 | https://github.com/yashvardhan20
 
----
 
-*Built with ❤️ for the RMIT Master of Analytics portfolio project.*
